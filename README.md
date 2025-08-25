@@ -1,2 +1,1 @@
-# UC-Big-Data
-UC Big Data
+# Repositório das atividades da UC Big Data
