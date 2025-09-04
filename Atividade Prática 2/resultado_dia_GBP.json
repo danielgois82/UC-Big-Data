@@ -1,0 +1,45 @@
+{
+    "@odata.context": "https://was-p.bcnet.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata$metadata#_CotacaoMoedaDia(paridadeCompra,paridadeVenda,cotacaoCompra,cotacaoVenda,dataHoraCotacao,tipoBoletim)",
+    "value": [
+        {
+            "paridadeCompra": 1.2325,
+            "paridadeVenda": 1.2328,
+            "cotacaoCompra": 6.2436,
+            "cotacaoVenda": 6.2459,
+            "dataHoraCotacao": "2023-02-01 10:08:17.93",
+            "tipoBoletim": "Abertura"
+        },
+        {
+            "paridadeCompra": 1.2337,
+            "paridadeVenda": 1.2341,
+            "cotacaoCompra": 6.2468,
+            "cotacaoVenda": 6.2496,
+            "dataHoraCotacao": "2023-02-01 11:06:16.863",
+            "tipoBoletim": "Intermediário"
+        },
+        {
+            "paridadeCompra": 1.2339,
+            "paridadeVenda": 1.2344,
+            "cotacaoCompra": 6.2703,
+            "cotacaoVenda": 6.2736,
+            "dataHoraCotacao": "2023-02-01 12:02:17.664",
+            "tipoBoletim": "Intermediário"
+        },
+        {
+            "paridadeCompra": 1.2323,
+            "paridadeVenda": 1.2328,
+            "cotacaoCompra": 6.2537,
+            "cotacaoVenda": 6.257,
+            "dataHoraCotacao": "2023-02-01 13:04:22.992",
+            "tipoBoletim": "Intermediário"
+        },
+        {
+            "paridadeCompra": 1.2323,
+            "paridadeVenda": 1.2328,
+            "cotacaoCompra": 6.2496,
+            "cotacaoVenda": 6.2529,
+            "dataHoraCotacao": "2023-02-01 13:04:23.003",
+            "tipoBoletim": "Fechamento PTAX"
+        }
+    ]
+}
